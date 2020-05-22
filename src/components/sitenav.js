@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import {Link} from 'gatsby';
-import './sitenav.css';
+import '../css/sitenav.css';
 
 const NavLink = ({children}) => <span className="NavLink">{children}</span>;
 

@@ -11,7 +11,7 @@ const Resume = () => (
       for reference.
     </p>
     <a
-      href="http://www.pavelrozvora.com/assets/Pavel_Rozvora_Resume.pdf"
+      href="http://www.pavelrozvora.com/static/Pavel_Rozvora_Resume.pdf"
       target="_blank"
       rel="noopener noreferrer"
     >

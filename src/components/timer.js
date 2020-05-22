@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, {useEffect, useState} from 'react';
-import './timer.css';
+import '../css/timer.css';
 
 const CountdownTimer = props => {
   const {endDate, title} = props;
